@@ -1,8 +1,8 @@
 ## Hi ,I am RAYEN
 
-🧠 Computer Science and AI engineering student<br\>
-🖥️ AI and machine learning enthousiast<br\>
-🏫 Higher Institute of Digital Engineering Tunis<br\>
+🧠 Computer Science and AI engineering student<br/>
+🖥️ AI and machine learning enthousiast<br/>
+🏫 Higher Institute of Digital Engineering Tunis<br/>
 
 
 # 💻 Tech Stack:
